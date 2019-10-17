@@ -27,12 +27,12 @@ The demonstration will repeat back what you say to it.  The Ruby program sends w
 
 ### Prerequisites
 
-[A Twilio account](https://www.twilio.com/console)
-[A Twilio phone number](https://www.twilio.com/docs/phone-numbers)
-[A Twilio function](https://www.twilio.com/docs/runtime/functions)
-[Ruby](http://www.ruby-lang.org/en/)
-[Twilio Ruby help library](https://www.twilio.com/docs/libraries/ruby)
-[Sinatra](http://sinatrarb.com/)
+[A Twilio account](https://www.twilio.com/console)</br>
+[A Twilio phone number](https://www.twilio.com/docs/phone-numbers)</br>
+[A Twilio function](https://www.twilio.com/docs/runtime/functions)</br>
+[Ruby](http://www.ruby-lang.org/en/)</br>
+[Twilio Ruby help library](https://www.twilio.com/docs/libraries/ruby)</br>
+[Sinatra](http://sinatrarb.com/)</br>
 
 ## Authors
 
