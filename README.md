@@ -4,20 +4,20 @@ This is a Ruby program to demonstrate Gather using speech. This program will mak
 
 ## Getting Started
 
-Step 1.  Install Ruby on your workstation.
-Step 2.  Install the Twilio Ruby helper library.  To install the Twilio Ruby help library, type 'gem install twilio-ruby'.
-Step 3.  Install Sinatra.
-Step 4.  To install Sinatra you will need to make sure you have Bundler installed.  (https://bundler.io/)
-Step 5.  Type 'gem install bundler' to install Bundler.
-Step 6.  Install the Gemfile by typing 'bundle install'.
-Step 7.  Type './ngrok http 4567' to start ngrok and have it proxy from port 80 to port 4567
-Step 8.  Once ngrok starts you will see a 'Forwarding' URL.  
-Step 9.  Input the URL from ngrok in the webhook for a Twilio phone number in the Twilio console.
-Step 10.  Make sure to set the webhook for your Twilio number in the Twilio console to use a GET request not a POST request.
-Step 11.  Copy and paste the node.js program from 'twilioFunction.js' to a Twilio function in the Console.
-Step 12.  Uncheck the Access Control checkbox on your Twilio Function that says "Check for valid Twilio signature'.
-Step 13.  Update the action property in the Ruby program with the URL of the twilio function.
-Step 14.  Type 'ruby SpeechResultDemo.rb' to start the program.
+Step 1.  Install Ruby on your workstation.</br>
+Step 2.  Install the Twilio Ruby helper library.  To install the Twilio Ruby help library, type 'gem install twilio-ruby'.</br>
+Step 3.  Install Sinatra.</br>
+Step 4.  To install Sinatra you will need to make sure you have Bundler installed.  (https://bundler.io/)</br>
+Step 5.  Type 'gem install bundler' to install Bundler.</br>
+Step 6.  Install the Gemfile by typing 'bundle install'.</br>
+Step 7.  Type './ngrok http 4567' to start ngrok and have it proxy from port 80 to port 4567.</br>
+Step 8.  Once ngrok starts you will see a 'Forwarding' URL.  </br>
+Step 9.  Input the URL from ngrok in the webhook for a Twilio phone number in the Twilio console.</br>
+Step 10.  Make sure to set the webhook for your Twilio number in the Twilio console to use a GET request not a POST request.</br>
+Step 11.  Copy and paste the node.js program from 'twilioFunction.js' to a Twilio function in the Console.</br>
+Step 12.  Uncheck the Access Control checkbox on your Twilio Function that says "Check for valid Twilio signature'.</br>
+Step 13.  Update the action property in the Ruby program with the URL of the twilio function.</br>
+Step 14.  Type 'ruby SpeechResultDemo.rb' to start the program.</br>
 
 ## Running the demonstration 
 
