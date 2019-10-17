@@ -1,4 +1,4 @@
-# A Demonstration of the input property in the Twilio Gather verb 
+# A Demonstration of the [input](https://www.twilio.com/docs/voice/twiml/gather#input) property in the Twilio [Gather](https://www.twilio.com/docs/voice/twiml/gather) verb 
 
 This is a Ruby program to demonstrate Gather using speech. This program will make a webhook call out to a twilio function.  The twilio function (twilioFunction.js) will then capture the SpeechResult property.  It will then use the Say verb to say back what was said during the Gather, demonstrating the speech recognition capabilities of the Gather verb.
 
